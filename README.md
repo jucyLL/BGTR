@@ -23,6 +23,7 @@ pip install opencv-python
 
 ##data
 #
+see Boundary-Guided-Transformer-for-Automatic-DTAV-Measurement-in-MR-Images/Boundary-Guided-Transformer/data_example/
 
 
 
