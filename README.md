@@ -41,16 +41,15 @@ optional arguments:
 ```
 
 ### Eval model
-
+#
+trained models for Boundary-Guided Transformer can be found in https://pan.baidu.com/s/1NPtTBNO-zjaAK1fV6aX37Q 
+Extraction code：1234
 ```
 python Boundary-Guided-Transformer-for-Automatic-DTAV-Measurement-in-MR-Images/Boundary-Guided-Transformer/viewer.py --model_weight model.pth
 optional arguments:
 --data_path                   Data path for dataset 
 --model_weight                Pretrained model weight 
 The model are trained using PyTorch 1.10.1 with a NVIDIA GeForce RTX 3090 GPU. The size of the input image is set to 512 X 512 and batch size set to 4.
-#
-trained models for Boundary-Guided Transformer can be found in https://pan.baidu.com/s/1NPtTBNO-zjaAK1fV6aX37Q 
-Extraction code：1234
 ```
 
 # DTAV measurememt based on segmentation results
