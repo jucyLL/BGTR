@@ -33,7 +33,7 @@ pip install opencv-python
 ```
 python train.py 
 optional arguments:
---data_path                   Data path for dataset £¨default='/home/shenjj/BGTR/data/'£©
+--data_path                   Data path for dataset Â£Â¨default='/home/shenjj/BGTR/data/'Â£Â©
 --crop_h                      Crop height for training images 
 --crop_w                      Crop width for training images 
 --batch_size                  Number of data for each batch to train 
@@ -48,7 +48,8 @@ python viewer.py --model_weight model.pth
 optional arguments:
 --data_path                   Data path for dataset 
 --model_weight                Pretrained model weight 
-
-The model are trained using PyTorch 1.10.1 with a NVIDIA GeForce RTX 3090 GPU for 100 epochs. The size of the input image is set to 512 ¡Á 512 and batch size set to 4.
+An example of a test:
+![result](1.png)
+The model are trained using PyTorch 1.10.1 with a NVIDIA GeForce RTX 3090 GPU. The size of the input image is set to 512 X 512 and batch size set to 4.
 
 # Boundary-Guided Transformer
