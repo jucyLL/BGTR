@@ -51,8 +51,6 @@ python Boundary-Guided-Transformer-for-Automatic-DTAV-Measurement-in-MR-Images/B
 optional arguments:
 --data_path                   Data path for dataset 
 --model_weight                Pretrained model weight 
-### An example of a test:
-(1.png)
 The model are trained using PyTorch 1.10.1 with a NVIDIA GeForce RTX 3090 GPU. The size of the input image is set to 512 X 512 and batch size set to 4.
 ```
 
