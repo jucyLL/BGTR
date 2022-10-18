@@ -54,7 +54,8 @@ optional arguments:
 ### An example of a test:
 (1.png)
 The model are trained using PyTorch 1.10.1 with a NVIDIA GeForce RTX 3090 GPU. The size of the input image is set to 512 X 512 and batch size set to 4.
+```
 
 # DTAV measurememt based on segmentation results
- 
+
 python Boundary-Guided-Transformer-for-Automatic-DTAV-Measurement-in-MR-Images/DTAV Measurement/DTAV.py
