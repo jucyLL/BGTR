@@ -10,10 +10,10 @@ import glob
 import cv2
 import numpy as np
 
-source_path = "G:/DTAV_0624/SegmentationClassPNG_mr/"       
-save_path = "G:/MRI_DTAV/data_voc/canny_r/"    
+source_path = "G:/MRI_DTAV/patterns/code/DTAV/up/seg/"       
+save_path = "G:/MRI_DTAV/patterns/code/DTAV/up/seg/1/"    
 M =0
-for item in glob.glob(source_path+"*.jpg"):  
+for item in glob.glob(source_path+"*.png"):  
     image_name = os.path.split(item)[1]         # os.path.split按照路径将文件名和路径分割开
     #print('image_name',image_name)
     #print('item',item)
