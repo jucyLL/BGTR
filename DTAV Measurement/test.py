@@ -1,23 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Tue Oct 18 17:43:45 2022
-
-@author: ZLS
-"""
-
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Oct 18 11:14:42 2022
-
-@author: ZLS
-"""
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Jul 20 21:51:28 2022
-
-@author: ZLS
-"""
-# -*- coding: utf-8 -*-
 import os.path
 import glob
 import cv2
