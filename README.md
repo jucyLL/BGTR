@@ -34,7 +34,7 @@ Extraction code：1234
 ### Train model
 
 ```
-python train.py 
+python Boundary-Guided-Transformer-for-Automatic-DTAV-Measurement-in-MR-Images/Boundary-Guided-Transformer/train.py 
 optional arguments:
 --data_path                   Data path for dataset £¨default='/home/shenjj/BGTR/data/'£©
 --crop_h                      Crop height for training images 
@@ -47,7 +47,7 @@ optional arguments:
 ### Eval model
 
 ```
-python viewer.py --model_weight model.pth
+python Boundary-Guided-Transformer-for-Automatic-DTAV-Measurement-in-MR-Images/Boundary-Guided-Transformer/viewer.py --model_weight model.pth
 optional arguments:
 --data_path                   Data path for dataset 
 --model_weight                Pretrained model weight 
