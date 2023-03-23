@@ -45,8 +45,6 @@ optional arguments:
 
 ### Eval model
 #
-trained models for Boundary-Guided Transformer can be found in https://pan.baidu.com/s/1NPtTBNO-zjaAK1fV6aX37Q 
-Extraction code：1234
 ```
 python Boundary-Guided-Transformer-for-Automatic-DTAV-Measurement-in-MR-Images/Boundary-Guided-Transformer/viewer.py --model_weight model.pth
 optional arguments:
