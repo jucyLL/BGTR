@@ -72,4 +72,4 @@ If this code is helpful for your study, please cite:
 }
 ```  
 # Acknowledgements
-Part of codes are reused from the GatedSCNN and Cerberus.
+Part of codes are reused from the GatedSCNN and Cerberus. Thanks to Xiaoxue Chen and Towaki Takikawa for the codes of GatedSCNN and Cerberus.
