@@ -59,3 +59,17 @@ python Boundary-Guided-Transformer-for-Automatic-DTAV-Measurement-in-MR-Images/D
 An example of a test:
 python Boundary-Guided-Transformer-for-Automatic-DTAV-Measurement-in-MR-Images/DTAV Measurement/test.py 
 ```
+# Citation
+```
+If this code is helpful for your study, please cite:
+
+@article{shen2023boundary,
+  title={A boundary-guided transformer for measuring distance from rectal tumor to anal verge on magnetic resonance images},
+  author={Shen, Jianjun and Lu, Siyi and Qu, Ruize and Zhao, Hao and Zhang, Li and Chang, An and Zhang, Yu and Fu, Wei and Zhang, Zhipeng},
+  journal={Patterns},
+  year={2023},
+  publisher={Elsevier}
+}
+```  
+# Acknowledgements
+Part of codes are reused from the GatedSCNN and Cerberus.
